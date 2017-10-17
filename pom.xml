@@ -57,6 +57,13 @@
                     </execution>
                 </executions>
       </plugin>
+      <distributionManagement>
+        <repositry>
+          <id>nexus</id>
+          <name>Nexus releases</name>
+          <url>http://52.172.38.86:8081/nexus/content/repositories/releases/</url>
+          </repositry>
+             <distributionManagement>
     </plugins>
   </build>
 
