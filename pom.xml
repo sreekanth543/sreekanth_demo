@@ -9,14 +9,6 @@
 
   <name>Simple Maven example</name>
   <url>https://jitpack.io/#jitpack/maven-simple/0.1</url>
-  <distributionManagement>
-        <repositry>
-          <id>nexus</id>
-          <name>Nexus releases</name>
-          <url>http://52.172.38.86:8081/nexus/content/repositories/releases/</url>
-          </repositry>
-    </distributionManagement>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
