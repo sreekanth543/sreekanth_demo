@@ -66,10 +66,10 @@
             <url>http://52.172.38.86/nexus/content/repositories/releases/</url>
         </repository>
         
-  <repository>
+       <snapshotRepository>
             <id>snapshots</id>
             <name>Snapshots</name>
             <url>http://52.172.38.86/nexus/content/repositories/snapshots/</url>
-        </repository>
+        </snapshotRepository>
     </distributionManagement>
 </project>
