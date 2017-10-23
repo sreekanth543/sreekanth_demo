@@ -65,9 +65,10 @@
             <name>Releases</name>
             <url>http://52.172.38.86/nexus/content/repositories/releases/</url>
         </repository>
-        <repository>
-            <id>Snapshots</id>
-            <name>snapshots</name>
+        
+  <repository>
+            <id>snapshots</id>
+            <name>Snapshots</name>
             <url>http://52.172.38.86/nexus/content/repositories/snapshots/</url>
         </repository>
     </distributionManagement>
