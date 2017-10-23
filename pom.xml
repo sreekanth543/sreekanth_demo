@@ -59,5 +59,11 @@
      
     </plugins>
   </build>
-
+<distributionManagement>
+        <repository>
+            <id>releases</id>
+            <name>Releases</name>
+            <url>http://52.172.38.86/nexus/content/repositories/releases/</url>
+        </repository>
+    </distributionManagement>
 </project>
